@@ -10,13 +10,6 @@
 
 🎓 Major in **Digital IC Design** & **EDA Backend Algorithms**  
 
-🔬 Focused on:
-- Standard Cell Placement
-- Physical Design Optimization
-- Backend CAD Algorithms
-- Performance-Oriented C++ Systems
-- CUDA Acceleration
-
 ---
 
 ## 🛠️ Languages & Tools
@@ -38,16 +31,7 @@
 
 ---
 
-## 📌 Engineering Philosophy
-
-- Algorithm first, optimization second  
-- Measure before tuning  
-- Deterministic and reproducible systems  
-- Clean architecture over abstraction layers  
-- Performance matters  
-
----
-
 ## 📫 Contact
 
 - GitHub: https://github.com/ekj0886
+- Email : kuochiayung@gmail.com
