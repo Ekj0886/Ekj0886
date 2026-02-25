@@ -33,7 +33,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekj0886&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400&v=1" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekj0886&theme=tokyonight" />
 </p>
 
 ---
