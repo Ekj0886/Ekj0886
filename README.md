@@ -10,6 +10,13 @@
 
 🎓 Major in **Digital IC Design** & **EDA Backend Algorithms**  
 
+🔬 Focused on:
+- Standard Cell Placement
+- Physical Design Optimization
+- Backend CAD Algorithms
+- Performance-Oriented C++ Systems
+- CUDA Acceleration
+
 ---
 
 ## 🛠️ Languages & Tools
@@ -26,7 +33,21 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekj0886&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekj0886&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400&v=1" width="50%" />
 </p>
 
 ---
+
+## 📌 Engineering Philosophy
+
+- Algorithm first, optimization second  
+- Measure before tuning  
+- Deterministic and reproducible systems  
+- Clean architecture over abstraction layers  
+- Performance matters  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/ekj0886
